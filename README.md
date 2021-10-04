@@ -14,6 +14,4 @@
         MasterPython()
 	    LearnCPP()
         
-    def Achievements():
-        nothing()
 ```
