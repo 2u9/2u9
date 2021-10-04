@@ -9,9 +9,11 @@
     
     def mainLang():
         return Python()
+	
+    def Location():
+	return Czechia()
     
     def Objectives():
         MasterPython()
-	    LearnCPP()
-        
+	    LearnCPP()        
 ```
