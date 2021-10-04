@@ -4,7 +4,7 @@
         hobbies = [
                 'Coding',
                 'Cracking',
-			'Learning New Languages'
+		          'Learning New Languages'
             ]
     
     def mainLang():
@@ -12,8 +12,8 @@
     
     def Objectives():
         MasterPython()
-		LearnCPP()
-		HaveASocialLife()
+	       LearnCPP()
+	       HaveASocialLife()
 
         
     def Achievements():
