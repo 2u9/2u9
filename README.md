@@ -4,7 +4,7 @@
         hobbies = [
                 'Coding',
                 'Cracking',
-				'Learning New Languages'
+		'Learning New Languages'
             ]
     
     def mainLang():
