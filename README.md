@@ -15,5 +15,5 @@
 	    LearnCPP()
         
     def Achievements():
-        none()
+        nothing()
 ```
