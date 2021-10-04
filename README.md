@@ -11,8 +11,9 @@
         return Python()
     
     def Objectives():
-        return MasterPython()
+        MasterPython()
+	LearnCPP()
         
     def Achievements():
-        return None()
+        none()
 ```
