@@ -12,11 +12,10 @@
     
     def Objectives():
         MasterPython()
-		LearnCPP()
-		HaveASocialLife()
+	LearnCPP()
+	HaveASocialLife()
 
         
     def Achievements():
         none()
-        
- ```
+```
