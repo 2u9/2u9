@@ -7,7 +7,7 @@
 		       'Learning New Languages'
             ]
     
-    def mainLang():
+    def Language():
         return Python()
 	
     def Location():
