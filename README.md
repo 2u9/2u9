@@ -3,7 +3,7 @@
      user = 'Lunar'
         hobbies = [
                 'Coding',
-                'Cracking',
+                'Gaming',
 		       'Learning New Languages'
             ]
     
