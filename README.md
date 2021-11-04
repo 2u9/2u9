@@ -1,6 +1,6 @@
  ```python
  class AboutMe:
-     user = 'nikča'
+     user = 'Lunar'
         hobbies = [
                 'Coding',
                 'Cracking',
