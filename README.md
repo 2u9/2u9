@@ -15,5 +15,5 @@
     
     def Objectives():
         MasterPython()
-	    LearnCPP()        
+	LearnGO()        
 ```
