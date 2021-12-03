@@ -2,9 +2,9 @@
  class AboutMe:
      user = 'Lunar'
         hobbies = [
-                'Coding',
+                'Pasting',
                 'Gaming',
-		       'Learning New Languages'
+		       'Reading'
             ]
     
     def Language():
